@@ -1,0 +1,9 @@
+{
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    },
+
+    "autoload": {
+        "classes\\" : "classes/"
+    }
+}
